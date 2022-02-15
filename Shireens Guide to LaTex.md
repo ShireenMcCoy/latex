@@ -29,6 +29,6 @@ then you should type: `$$ \mu = \frac{\Sigma\ X_{i}}{N} $$`
 * A good reference guide for learing more about LaTex, by Khelifi Ahmed Aziz: [Learn How to Write Markdown & LaTeX in The Jupyter Notebook](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
 
 ### Note:
-If you want to save your Jupyter Notebook in Markdown format and share it on GitHub, you will need to make some adjustments before it will display correctly on GitHub. Wherevever you have LaTex code, you will need to remove the surrounding dollar signs and spaces, and paste the remaining code into this tag: `<img src="https://render.githubusercontent.com/render/math?math=LATEXCODE">`, where `LATEXCODE` gets replaced by your code. For example, if your origianl mardown document says `$ \frac{5x}{3y} $`, that needs to be changed to `<img src="https://render.githubusercontent.com/render/math?math=\\frac{5x}{3y}">`
+If you want to save your Jupyter Notebook in Markdown format and share it on GitHub, you will need to make some adjustments before it will display correctly on GitHub. Wherevever you have LaTex code, you will need to remove the surrounding dollar signs and spaces, and paste the remaining code into this tag: `<img src="https://render.githubusercontent.com/render/math?math=LATEXCODE">`, where `LATEXCODE` gets replaced by your code. For example, if your original Markdown document says `$ \frac{5x}{3y} $`, that needs to be changed to `<img src="https://render.githubusercontent.com/render/math?math=\\frac{5x}{3y}">`
 
 The End!
