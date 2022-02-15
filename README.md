@@ -1,2 +1,2 @@
 # LaTex
-Learn to use LaTex to add nicely-formatted math equations to Jupyter notebooks.
+Learn to use LaTex to add nicely-formatted math equations and symbols to Jupyter notebooks.
