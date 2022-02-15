@@ -5,7 +5,7 @@
 ### Adding LaTex to a Jupyter Notebook Markdown Cell
 
 
-* For **inline** LaTex code, just add a dollar sign `$` before and after the code. Make sure there's a space between the `$` and the code. For example, if you want to write "Add <img src="https://render.githubusercontent.com/render/math?math=\frac{2}{3} "> cups flour," type `Add $ \frac{2}{3} $ cups flour $` into your markdown cell.
+* For **inline** LaTex code, just add a dollar sign `$` before and after the code. Make sure there's a space between the `$` and the code. For example, if you want to write "Add <img src="https://render.githubusercontent.com/render/math?math=\frac{2}{3} "> cups flour," type `Add $ \frac{2}{3} $ cups flour` into your markdown cell.
 
 
 * For **display** mode, which gives your code its own centered paragraph, use two dollar signs `$$` instead of one. For example, if you want to write:
