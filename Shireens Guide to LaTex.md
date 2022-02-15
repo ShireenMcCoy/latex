@@ -22,3 +22,5 @@
 * A good reference guide for learing more about LaTex, by Khelifi Ahmed Aziz: [Learn How to Write Markdown & LaTeX in The Jupyter Notebook](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
 
 The End!
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
