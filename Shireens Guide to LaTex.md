@@ -6,7 +6,7 @@
 
 
 * For **inline** LaTex code, just add a dollar sign `$` before and after the code. Make sure there's a space between the `$` and the code. For example, if you want to write 
-"Add $ \frac{2}{3} $ cups flour," type `Add $ \frac{2}{3} $ cups flour` into your markdown cell.
+"Add $ \frac{2}{3} $ cups flour," type `Add $ \frac{2}{3} $ cups flour $` into your markdown cell.
 
 
 * For **display** mode, which gives your code its own centered paragraph, use two dollar signs `$$` instead of one. For example, if you want to write: $$ \mu = \frac{\Sigma\ X_{i}}{N} $$ <br /> you should surround the code with two dollar signs and a space on each side, like this: `$$ \mu = \frac{\Sigma\ X_{i}}{N} $$`
